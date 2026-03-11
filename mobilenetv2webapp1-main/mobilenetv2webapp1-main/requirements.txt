@@ -1,5 +1,0 @@
-streamlit
-tensorflow-cpu
-numpy
-Pillow
-pandas
